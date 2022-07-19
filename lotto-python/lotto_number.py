@@ -1,1 +1,0 @@
-class lotto_number:
